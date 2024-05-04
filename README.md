@@ -5,12 +5,8 @@
 >该教程只实现在**Linux**环境对**ffmpeg4.4** + **android-ndk 21**的编译
 >
 >现成编译好的在**release**，只实现**arm**架构，x86请自行探索
->
->想知道是如何实现的可以移步
->
->[BigHW]: https://github.com/Hanser-Chan/MI_HW/tree/master/BIGHW	"小米训练营大作业"
->
->
+
+这有一个实现： [小米训练营大作业]: https://github.com/Hanser-Chan/MI_HW/tree/master/BIGHW	
 
 ## 链接为一个库
 
