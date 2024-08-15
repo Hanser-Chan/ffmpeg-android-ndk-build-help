@@ -6,7 +6,11 @@
 >
 >现成编译好的在**release**，只实现**arm**架构，x86请自行探索
 
-这有一个实现： [小米训练营大作业]: https://github.com/Hanser-Chan/MI_HW/tree/master/BIGHW	
+
+
+这有一个实现：[小米训练营大作业](https://github.com/Hanser-Chan/MI_HW/tree/master/BIGHW)
+
+
 
 ## 链接为一个库
 
@@ -176,4 +180,4 @@ build_android
 
 ## 链接为多个库
 
-使用`ndk-build-split.sh`，其余步骤一样，解释略（不是我自己写的）。
+使用`ndk-build-split.sh`，其余步骤一样。
